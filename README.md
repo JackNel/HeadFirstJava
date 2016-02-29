@@ -1,3 +1,3 @@
 # HeadFirstJava
 
-Java practice using Atom and Head First Java textbook.
+Java practice using Head First Java textbook.
